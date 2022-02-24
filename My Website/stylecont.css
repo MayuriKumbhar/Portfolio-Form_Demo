@@ -1,0 +1,88 @@
+body {
+    background-image: linear-gradient(to right, rgb(5, 133, 238),rgb(128, 120, 241), rgb(202, 200, 233) );
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+  }
+  
+  
+
+  h1 {
+    font-size: 20px;
+    padding-top: 10px;
+   padding-left: 40px;
+    text-shadow: 1px 1px rgb(131, 130, 131);
+  }
+
+
+  p {
+      padding-left: 40px;
+     
+  }
+  
+ form {
+     padding-left: 40px;
+ }
+  
+  
+
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 500px;
+    height: 35px;
+    }
+  
+    
+    input[type="submit"] {
+        width: 80px;
+        height: 35px;
+        margin-top: 20px;
+        border: none;
+        background-color: blue;
+        color: white;
+        font-size: 18px;
+        box-shadow: 2px 2px 2px 2px rgb(53, 49, 49);
+        margin-left: 40px;
+      }
+      input[type="submit"]:hover {
+        cursor: pointer;
+        transform: scale(1.03);
+        background-color: rgb(58, 39, 230);
+        
+        }
+        
+      
+    .column {
+        float: left;
+        width: 800px;
+        
+       
+    }
+
+    .column2 {
+        float: left;
+        width: 500px;
+        
+    }
+    
+
+    h4 {
+        padding-top: 10px;
+        padding-left: 200px;
+        color: brown;
+    }
+
+    .list-item {
+        text-decoration: none;
+        color: rgb(66, 66, 66);
+        margin-left: 200px;
+        
+    }
+    
+
+  
+  
